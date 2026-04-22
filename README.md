@@ -30,7 +30,7 @@
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/hema-tejaswi-manchikalapudi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/hematejaswimanchikalapudi)
 [![Email](https://img.shields.io/badge/Email-mht151103@gmail.com-red?style=flat&logo=gmail)](mailto:mht151103@gmail.com)
 
 ---
