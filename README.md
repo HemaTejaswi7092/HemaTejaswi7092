@@ -18,15 +18,13 @@
 
 ---
 
-## 🚀 Projects (Currently Building)
+## 🚀 Projects
 
 | Project | Description | Stack | Status |
 |---------|-------------|-------|--------|
-| 🤖 AI Resume Analyzer | Matches resumes to job descriptions using LLMs | Python · Groq API · Streamlit | 🔨 In Progress |
+| 🤖 [AI Resume Analyzer](https://hema-resume-analyzer.streamlit.app/) | Matches resumes to job descriptions using LLMs, compares multiple jobs, auto-rewrites bullets | Python · Groq API · Streamlit | ✅ Live |
 | 📊 Sentiment Dashboard | Real-time Reddit sentiment vs stock price | Python · HuggingFace · Streamlit | 🔜 Coming Soon |
 | 🔐 Network Anomaly Detector | ML-based intrusion detection on network traffic | Python · Scikit-learn · Streamlit | 🔜 Coming Soon |
-
----
 
 ## 📫 Let's Connect
 
