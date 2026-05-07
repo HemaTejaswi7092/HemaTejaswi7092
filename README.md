@@ -24,8 +24,7 @@
 |---------|-------------|-------|--------|
 | 🤖 [AI Resume Analyzer](https://hema-resume-analyzer.streamlit.app/) | Matches resumes to job descriptions, compares multiple jobs, auto-rewrites bullets, generates cover letters | Python · Groq API · Streamlit | ✅ Live |
 | 📊 Sentiment Dashboard | Real-time Reddit sentiment vs stock price | Python · HuggingFace · Streamlit | 🔜 Coming Soon |
-| 🔐 Network Anomaly Detector | ML-based intrusion detection on network traffic | Python · Scikit-learn · Streamlit | 🔜 Coming Soon |
-
+| 🛡️ [NetGuard — Network Anomaly Detector](https://netguard-anomaly-detector.streamlit.app/) | ML-based intrusion detection system detecting DDoS, PortScan, BruteForce attacks with 99.9% accuracy | Python · Scikit-learn · Streamlit | ✅ Live |
 ---
 
 ## 📫 Let's Connect
