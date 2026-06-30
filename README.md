@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:378ADD&height=180&section=header&text=Hema%20Tejaswi%20Manchikalapudi&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Building%20systems%20that%20ship&descAlignY=55&descSize=16" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:378ADD&height=180&section=header&text=Hema%20Tejaswi%20Manchikalapudi&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20%2F%20AI%20Engineer%20%E2%80%94%20Building%20systems%20that%20ship&descAlignY=55&descSize=16" />
 
 <a href="https://www.linkedin.com/in/hematejaswimanchikalapudi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:mht151103@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -9,7 +9,7 @@
 </div>
 
 <p align="center">
-MS Computer Science @ UCF (GPA 3.7) · 1 year backend engineering experience · Open to SWE / ML / Data Engineering roles
+MS Computer Science @ UCF (GPA 3.7) · 1 year backend engineering experience · Open to SDE / SWE / AI / ML / Data Engineering roles
 <br/>
 📍 Orlando, FL · Open to relocation · OPT work authorized
 </p>
