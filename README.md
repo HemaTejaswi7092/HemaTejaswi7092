@@ -1,42 +1,90 @@
-# Hema Tejaswi Manchikalapudi
+<div align="center">
 
-AI/ML Engineer with 1 year of backend engineering experience and an MS in Computer Science from UCF. I build systems that go from a dataset to a deployed, working product — not just notebooks. Recent work spans computer vision for defect detection, network intrusion detection, and applied NLP/LLM safety.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:378ADD&height=180&section=header&text=Hema%20Tejaswi%20Manchikalapudi&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Building%20systems%20that%20ship&descAlignY=55&descSize=16" />
 
-Currently job hunting for SWE / ML / Data Engineering roles. Based in Orlando, FL, open to relocation, OPT work authorized.
+</div>
 
-[LinkedIn](https://www.linkedin.com/in/hematejaswimanchikalapudi) · [Portfolio](https://hema-tejaswi-portfolio.netlify.app/) · [mht151103@gmail.com](mailto:mht151103@gmail.com)
+<p align="center">
+<a href="https://www.linkedin.com/in/hematejaswimanchikalapudi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:mht151103@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://hema-tejaswi-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+</p>
 
-## What I work with
+<p align="center">
+MS Computer Science @ UCF (GPA 3.7) · 1 year backend engineering experience · Open to SWE / ML / Data Engineering roles
+<br/>
+📍 Orlando, FL · Open to relocation · OPT work authorized
+</p>
 
-`Python` `Java` `JavaScript` `C++` `SQL`
-`TensorFlow` `PyTorch` `Scikit-learn` `HuggingFace Transformers` `OpenCV`
-`React` `FastAPI` `Flask` `REST APIs`
-`MySQL` `PostgreSQL` `MongoDB`
-`AWS` `Docker` `Git` `CI/CD`
+<br/>
 
-## Projects
+## 🛠️ Tech stack
 
-**[VISIQ](https://visiq-frontend.vercel.app/)** — full-stack AI visual inspection platform. Detects PCB and semiconductor defects in real time using Groq Vision AI behind an OpenCV preprocessing pipeline, with per-defect severity scoring and PDF inspection reports. Sub-2s end-to-end inference.
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,js,cpp,tensorflow,pytorch,sklearn,opencv,flask,fastapi,react,mysql,postgres,mongodb,aws,docker,git,linux&theme=dark" />
+</p>
+
+## 🚀 Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### ⬡ [VISIQ](https://visiq-frontend.vercel.app/)
+AI visual inspection system detecting PCB and semiconductor defects in real time using Groq Vision AI + OpenCV, with per-defect risk scoring and PDF reports.
+
 `React` `FastAPI` `Groq Vision AI` `OpenCV`
 
-**[NetGuard](https://netguard-anomaly-detector.streamlit.app/)** — real-time network intrusion detector. Isolation Forest, Random Forest, and SVM ensemble trained on 41 engineered features from NSL-KDD, hitting 99.9% classification accuracy with a sub-0.1% false-positive rate. Live Streamlit dashboard for traffic monitoring and alert triage.
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ [NetGuard](https://netguard-anomaly-detector.streamlit.app/)
+Real-time network intrusion detector — Isolation Forest + Random Forest + SVM ensemble on 41 engineered features, 99.9% accuracy.
+
 `Python` `Scikit-learn` `Streamlit`
 
-**[AI Resume Analyzer](https://hema-resume-analyzer.streamlit.app/)** — LLM-powered resume-to-job-description matcher. Scores fit, flags skill gaps, rewrites bullets, and drafts a cover letter, all in under 30 seconds per run.
-`Python` `Groq API (LLaMA 3)` `Streamlit`
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**Ethical Safeguards in LLMs** — toxicity filtering and bias-reduction pipeline trained on the Jigsaw dataset, applying RLHF and adaptive prompting to cut harmful outputs by 45% while preserving fluency and coherence.
-`PyTorch` `HuggingFace Transformers` `RLHF`
+### 🤖 [AI Resume Analyzer](https://hema-resume-analyzer.streamlit.app/)
+LLM-powered resume-to-job-description matcher with bullet rewriting and cover letter generation, results in under 30 seconds.
 
-## Experience
+`Python` `Groq API` `Streamlit`
 
-**Software Engineer**, GMS Global Solutions — Apr 2023 to Jun 2024
-Built and maintained backend modules for high-volume transaction processing in Python and Java, optimized SQL queries for high-traffic dashboards, and shipped 12 feature releases via Agile/CI-CD with zero major rollbacks.
+</td>
+<td width="50%" valign="top">
 
-## GitHub activity
+### 🧠 Ethical Safeguards in LLMs
+Toxicity filtering and bias-reduction pipeline on the Jigsaw dataset — 45% reduction in harmful outputs via RLHF.
 
-![Hema's GitHub stats](https://github-readme-stats.vercel.app/api?username=HemaTejaswi7092&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
+`PyTorch` `HuggingFace` `RLHF`
 
----
+</td>
+</tr>
+</table>
 
-Published researcher (ICATAS-2023, handwritten text recognition) · NSF CyberTraining 2026 selectee · Google AI Certified · Microsoft Azure AI Fundamentals certified
+## 📊 GitHub stats
+
+<p align="left">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HemaTejaswi7092&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemaTejaswi7092&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+</p>
+
+## 🐍 Contribution snake
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HemaTejaswi7092/HemaTejaswi7092/output/github-contribution-grid-snake-dark.svg">
+<img alt="Contribution snake animation" src="https://raw.githubusercontent.com/HemaTejaswi7092/HemaTejaswi7092/output/github-contribution-grid-snake.svg">
+</picture>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hematejaswimanchikalapudi)
+[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mht151103@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://hema-tejaswi-portfolio.netlify.app/)
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,100:1D9E75&height=100&section=footer" />
+
+</div>
