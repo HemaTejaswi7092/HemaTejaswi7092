@@ -1,86 +1,42 @@
-<div align="center">
+# Hema Tejaswi Manchikalapudi
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:378ADD&height=200&section=header&text=Hema%20Tejaswi%20Manchikalapudi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Building%20systems%20that%20ship&descAlignY=58&descSize=18" />
+AI/ML Engineer with 1 year of backend engineering experience and an MS in Computer Science from UCF. I build systems that go from a dataset to a deployed, working product — not just notebooks. Recent work spans computer vision for defect detection, network intrusion detection, and applied NLP/LLM safety.
 
-<a href="https://www.linkedin.com/in/hematejaswimanchikalapudi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mht151103@gmail.com"><img src="https://img.shields.io/badge/Email-mht151103%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://hema-tejaswi-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=flat&logo=netlify&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=HemaTejaswi7092&style=flat&color=1D9E75&label=Profile+views" />
+Currently job hunting for SWE / ML / Data Engineering roles. Based in Orlando, FL, open to relocation, OPT work authorized.
 
-</div>
+[LinkedIn](https://www.linkedin.com/in/hematejaswimanchikalapudi) · [Portfolio](https://hema-tejaswi-portfolio.netlify.app/) · [mht151103@gmail.com](mailto:mht151103@gmail.com)
 
-<br/>
+## What I work with
 
-<img src="https://readme-typing-svg.demolab.com/?lines=MS+Computer+Science+%40+UCF+(GPA+3.7);Building+AI+systems+that+solve+real+problems;Open+to+SWE+%2F+ML+%2F+Data+Engineering+roles;99.9%25+accuracy+on+my+last+ML+model+%E2%80%94+ask+me+how;&font=Fira+Code&center=true&width=600&height=45&color=1D9E75&vCenter=true&size=20" />
+`Python` `Java` `JavaScript` `C++` `SQL`
+`TensorFlow` `PyTorch` `Scikit-learn` `HuggingFace Transformers` `OpenCV`
+`React` `FastAPI` `Flask` `REST APIs`
+`MySQL` `PostgreSQL` `MongoDB`
+`AWS` `Docker` `Git` `CI/CD`
 
-📍 Orlando, FL · Open to relocation · OPT work authorized
+## Projects
 
----
-
-### Tech stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,js,cpp,tensorflow,pytorch,sklearn,opencv,flask,fastapi,react,mysql,postgres,mongodb,aws,docker,git,linux&theme=dark" />
-</p>
-
----
-
-### Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**⬡ [VISIQ](https://visiq-frontend.vercel.app/)**
-AI visual inspection system detecting PCB/semiconductor defects in real time with risk scoring and PDF reports.
+**[VISIQ](https://visiq-frontend.vercel.app/)** — full-stack AI visual inspection platform. Detects PCB and semiconductor defects in real time using Groq Vision AI behind an OpenCV preprocessing pipeline, with per-defect severity scoring and PDF inspection reports. Sub-2s end-to-end inference.
 `React` `FastAPI` `Groq Vision AI` `OpenCV`
 
-</td>
-<td width="50%" valign="top">
-
-**🛡️ [NetGuard](https://netguard-anomaly-detector.streamlit.app/)**
-Real-time network intrusion detector — Isolation Forest + Random Forest + SVM ensemble, 99.9% accuracy.
+**[NetGuard](https://netguard-anomaly-detector.streamlit.app/)** — real-time network intrusion detector. Isolation Forest, Random Forest, and SVM ensemble trained on 41 engineered features from NSL-KDD, hitting 99.9% classification accuracy with a sub-0.1% false-positive rate. Live Streamlit dashboard for traffic monitoring and alert triage.
 `Python` `Scikit-learn` `Streamlit`
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+**[AI Resume Analyzer](https://hema-resume-analyzer.streamlit.app/)** — LLM-powered resume-to-job-description matcher. Scores fit, flags skill gaps, rewrites bullets, and drafts a cover letter, all in under 30 seconds per run.
+`Python` `Groq API (LLaMA 3)` `Streamlit`
 
-**🤖 [AI Resume Analyzer](https://hema-resume-analyzer.streamlit.app/)**
-LLM-powered resume-to-JD matcher with bullet rewriting and cover letter generation.
-`Python` `Groq API` `Streamlit`
+**Ethical Safeguards in LLMs** — toxicity filtering and bias-reduction pipeline trained on the Jigsaw dataset, applying RLHF and adaptive prompting to cut harmful outputs by 45% while preserving fluency and coherence.
+`PyTorch` `HuggingFace Transformers` `RLHF`
 
-</td>
-<td width="50%" valign="top">
+## Experience
 
-**🧠 Ethical Safeguards in LLMs**
-Toxicity filtering and bias reduction pipeline on the Jigsaw dataset — 45% reduction in harmful outputs.
-`PyTorch` `HuggingFace` `RLHF`
+**Software Engineer**, GMS Global Solutions — Apr 2023 to Jun 2024
+Built and maintained backend modules for high-volume transaction processing in Python and Java, optimized SQL queries for high-traffic dashboards, and shipped 12 feature releases via Agile/CI-CD with zero major rollbacks.
 
-</td>
-</tr>
-</table>
+## GitHub activity
+
+![Hema's GitHub stats](https://github-readme-stats.vercel.app/api?username=HemaTejaswi7092&show_icons=true&theme=dark&hide_border=true&bg_color=00000000)
 
 ---
 
-### GitHub stats
-
-<p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HemaTejaswi7092&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemaTejaswi7092&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=HemaTejaswi7092&theme=tokyonight&hide_border=true&background=00000000" />
-
----
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hematejaswimanchikalapudi)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mht151103@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://hema-tejaswi-portfolio.netlify.app/)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,100:1D9E75&height=100&section=footer" />
-
-</div>
+Published researcher (ICATAS-2023, handwritten text recognition) · NSF CyberTraining 2026 selectee · Google AI Certified · Microsoft Azure AI Fundamentals certified
