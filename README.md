@@ -2,13 +2,11 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:378ADD&height=180&section=header&text=Hema%20Tejaswi%20Manchikalapudi&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20Building%20systems%20that%20ship&descAlignY=55&descSize=16" />
 
-</div>
-
-<p align="center">
 <a href="https://www.linkedin.com/in/hematejaswimanchikalapudi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:mht151103@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://hema-tejaswi-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
-</p>
+
+</div>
 
 <p align="center">
 MS Computer Science @ UCF (GPA 3.7) · 1 year backend engineering experience · Open to SWE / ML / Data Engineering roles
@@ -18,13 +16,13 @@ MS Computer Science @ UCF (GPA 3.7) · 1 year backend engineering experience · 
 
 <br/>
 
-## 🛠️ Tech stack
+## Tech stack
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,java,js,cpp,tensorflow,pytorch,sklearn,opencv,flask,fastapi,react,mysql,postgres,mongodb,aws,docker,git,linux&theme=dark" />
 </p>
 
-## 🚀 Projects
+## Projects
 
 <table width="100%">
 <tr>
@@ -65,25 +63,16 @@ Toxicity filtering and bias-reduction pipeline on the Jigsaw dataset — 45% red
 </tr>
 </table>
 
-## 📊 GitHub stats
+## Experience
 
-<p align="left">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=HemaTejaswi7092&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemaTejaswi7092&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-</p>
+**Software Engineer**, GMS Global Solutions — Apr 2023 to Jun 2024
+Built and maintained backend modules for high-volume transaction processing, optimized SQL queries for high-traffic dashboards, and shipped 12 feature releases via Agile/CI-CD with zero major rollbacks.
 
-## 🐍 Contribution snake
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HemaTejaswi7092/HemaTejaswi7092/output/github-contribution-grid-snake-dark.svg">
-<img alt="Contribution snake animation" src="https://raw.githubusercontent.com/HemaTejaswi7092/HemaTejaswi7092/output/github-contribution-grid-snake.svg">
-</picture>
+---
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hematejaswimanchikalapudi)
-[![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mht151103@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://hema-tejaswi-portfolio.netlify.app/)
+Published researcher (ICATAS-2023) · NSF CyberTraining 2026 selectee · Google AI Certified · Microsoft Azure AI Fundamentals
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,100:1D9E75&height=100&section=footer" />
 
