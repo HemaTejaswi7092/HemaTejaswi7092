@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:1A237E&height=180&section=header&text=Hema%20Tejaswi%20Manchikalapudi&fontSize=38&fontColor=ffffff&desc=Software%20/%20AI%20Engineer%20—%20Building%20systems%20that%20ship&descSize=18&descAlignY=62"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:1A237E&height=220&section=header&text=Hema%20Tejaswi%20Manchikalapudi&fontSize=34&fontColor=ffffff&desc=Software%20/%20AI%20Engineer%20—%20Building%20systems%20that%20ship&descSize=16&descAlignY=68&textBg=false"/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hematejaswimanchikalapudi/)
 [![Email](https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mht151103@gmail.com)
@@ -83,14 +83,11 @@ Toxicity filtering and bias-reduction pipeline on the Jigsaw dataset — 45% red
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 **🌱 [Seed and Grove](https://seed-and-grove.vercel.app/)**
-Full-stack web application built and deployed end-to-end, showcasing clean UI/UX and a modern frontend-to-deployment workflow.
-`React` `Vercel`
-
-</td>
-<td width="50%" valign="top">
+An AI-native platform where candidates build project-based portfolios backed by verified evidence, and recruiters discover talent through semantic AI matching.
+`React` `TypeScript` `Supabase` `PostgreSQL` `Tailwind CSS` `Groq AI`
 
 </td>
 </tr>
