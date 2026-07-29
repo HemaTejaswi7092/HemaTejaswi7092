@@ -1,104 +1,157 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:378ADD&height=180&section=header&text=Hema%20Tejaswi%20Manchikalapudi&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20%2F%20AI%20Engineer%20%E2%80%94%20Building%20systems%20that%20ship&descAlignY=55&descSize=16" />
+# Hema Tejaswi Manchikalapudi
 
-<a href="https://www.linkedin.com/in/hematejaswimanchikalapudi"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:mht151103@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://hema-tejaswi-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+### Software Engineer • AI Engineer • Building AI-native products that solve real-world problems
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C853?style=for-the-badge)](YOUR_PORTFOLIO)
+
+**MS in Computer Science @ University of Central Florida (GPA: 3.7)**
+
+Software Engineer with 1+ year of backend engineering experience building scalable applications, AI systems, and full-stack products.
+
+📍 Orlando, FL • Open to Relocation • OPT Authorized
 
 </div>
 
-<p align="center">
-MS Computer Science @ UCF (GPA 3.7) · 1 year backend engineering experience · Open to SDE / SWE / AI / ML / Data Engineering roles
-<br/>
-📍 Orlando, FL · Open to relocation · OPT work authorized
-</p>
+---
 
-<br/>
+# Tech Stack
 
-## Tech stack
+### Languages
 
-**Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
 
-**AI / ML**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+### AI / Machine Learning
 
-**Backend / Web**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+TensorFlow • PyTorch • Hugging Face • OpenCV • Scikit-learn
 
-**Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+### Full Stack
 
-**Cloud / Tools**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+React • FastAPI • Flask • Supabase • PostgreSQL • Tailwind CSS
 
-## Projects
+### Cloud / Dev Tools
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+AWS • Docker • Git • GitHub
 
-### ⬡ [VISIQ](https://visiq-frontend.vercel.app/)
-AI visual inspection system detecting PCB and semiconductor defects in real time using Groq Vision AI + OpenCV, with per-defect risk scoring and PDF reports.
+---
 
-`React` `FastAPI` `Groq Vision AI` `OpenCV`
+# Featured Projects
 
-</td>
-<td width="50%" valign="top">
+## 🌱 Seed & Grove *(Flagship Project)*
 
-### 🛡️ [NetGuard](https://netguard-anomaly-detector.streamlit.app/)
-Real-time network intrusion detector — Isolation Forest + Random Forest + SVM ensemble on 41 engineered features, 99.9% accuracy.
+> **AI-native platform where projects become proof, progress becomes identity, and potential becomes opportunity.**
 
-`Python` `Scikit-learn` `Streamlit`
+A next-generation professional platform where candidates build projects with AI guidance while recruiters discover talent through verified evidence, achievements, and semantic AI matching instead of keyword-based resumes.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+### Highlights
 
-### 🤖 [AI Resume Analyzer](https://hema-resume-analyzer.streamlit.app/)
-LLM-powered resume-to-job-description matcher with bullet rewriting and cover letter generation, results in under 30 seconds.
+- AI-powered project workspace (Seed)
+- Living professional portfolio (Grove)
+- Semantic candidate-job matching
+- Recruiter hiring workspace
+- Community activity feed
+- AI-generated achievements from project evidence
+- Role-based authentication
+- Responsive modern UI
 
-`Python` `Groq API` `Streamlit`
+**Tech**
 
-</td>
-<td width="50%" valign="top">
+`React`
+`TypeScript`
+`Supabase`
+`PostgreSQL`
+`Tailwind`
+`Groq AI`
 
-### 🧠 Ethical Safeguards in LLMs
-Toxicity filtering and bias-reduction pipeline on the Jigsaw dataset — 45% reduction in harmful outputs via RLHF.
+---
 
-`PyTorch` `HuggingFace` `RLHF`
+## 🔍 VISIQ
 
-</td>
-</tr>
-</table>
+AI-powered computer vision platform that detects PCB and semiconductor defects in real time using Groq Vision AI, OpenCV, and FastAPI while generating risk scores and PDF inspection reports.
 
-## Experience
+**Tech**
 
-**Software Engineer**, GMS Global Solutions — Apr 2023 to Jun 2024
-Built and maintained backend modules for high-volume transaction processing, optimized SQL queries for high-traffic dashboards, and shipped 12 feature releases via Agile/CI-CD with zero major rollbacks.
+`React`
+`FastAPI`
+`OpenCV`
+`Groq Vision`
+`Python`
+
+---
+
+## 🛡️ NetGuard
+
+Real-time intelligent network intrusion detection system using an ensemble of Isolation Forest, Random Forest, and SVM models achieving **99.9% detection accuracy** on engineered security features.
+
+**Tech**
+
+`Python`
+`Scikit-learn`
+`Streamlit`
+
+---
+
+## 🤖 AI Resume Analyzer
+
+LLM-powered resume optimization platform that compares resumes with job descriptions, rewrites experience bullets, and generates tailored cover letters in seconds.
+
+**Tech**
+
+`Python`
+`Groq API`
+`Streamlit`
+
+---
+
+# Professional Experience
+
+## Software Engineer
+
+**GMS Global Solutions**
+
+**April 2023 – June 2024**
+
+- Built backend modules for high-volume transaction systems.
+- Optimized SQL queries for analytics dashboards.
+- Delivered 12 production feature releases through Agile development.
+- Collaborated across engineering teams to ship scalable backend services.
+
+---
+
+# Highlights
+
+- 📄 Published Researcher (ICATAS 2023)
+- 🛡️ NSF CyberTraining 2026 Selectee
+- ☁️ Google AI Certified
+- ☁️ Microsoft Azure Fundamentals
+- 🎓 MS Computer Science @ UCF
+
+---
+
+# Current Focus
+
+- AI Engineering
+- Full-Stack Development
+- Production AI Systems
+- Retrieval-Augmented Generation (RAG)
+- Multi-Agent Systems
+- Computer Vision
+- LLM Applications
+- Semantic Search
 
 ---
 
 <div align="center">
 
-Published researcher (ICATAS-2023) · NSF CyberTraining 2026 selectee · Google AI Certified · Microsoft Azure AI Fundamentals
+### Building products where AI solves meaningful real-world problems.
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:378ADD,100:1D9E75&height=100&section=footer" />
+⭐ Always exploring, building, and shipping.
 
 </div>
